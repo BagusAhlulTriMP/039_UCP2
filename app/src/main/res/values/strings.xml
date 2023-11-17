@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="next">Lanjut</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="dwi">Dwi joko P</string>
+    <string name="aprillia">Aprillia Kurnianti</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Back</string>
+</resources>
