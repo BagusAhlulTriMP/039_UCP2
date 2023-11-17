@@ -26,7 +26,7 @@ import com.example.exercise.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun HalamanForm(
+fun HalamanSatu(
     onSubmitBUttonClicked: (MutableList<String>) -> Unit,
     onCancelButtonClicked: () -> Unit,
 ) {
@@ -90,3 +90,4 @@ fun HalamanForm(
         }
     }
 }
+
