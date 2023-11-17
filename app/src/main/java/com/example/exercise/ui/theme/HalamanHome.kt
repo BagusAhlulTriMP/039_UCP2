@@ -31,7 +31,7 @@ import com.example.exercise.R
 @Composable
 fun HalamanHome(
     onNextButtonClicked: () -> Unit) {
-    val image = painterResource(id = R.drawable.)
+    val image = painterResource(id = R.drawable.UMY)
     Column(modifier = Modifier, verticalArrangement = Arrangement.SpaceBetween){
         OutlinedCard (
             colors = CardDefaults.cardColors(
